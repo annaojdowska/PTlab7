@@ -1,0 +1,6 @@
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab7\ptlab7\bin\Debug\ptlab7.exe.config
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab7\ptlab7\bin\Debug\ptlab7.exe
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab7\ptlab7\bin\Debug\ptlab7.pdb
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab7\ptlab7\obj\Debug\ptlab7.csprojResolveAssemblyReference.cache
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab7\ptlab7\obj\Debug\ptlab7.exe
+c:\users\anna ojdowska\documents\visual studio 2015\Projects\ptlab7\ptlab7\obj\Debug\ptlab7.pdb
